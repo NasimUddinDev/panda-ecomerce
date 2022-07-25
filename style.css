@@ -1,0 +1,30 @@
+.slider-area {
+  margin-top: 70px !important;
+}
+
+.bg-panda {
+  background: #fceae8;
+}
+
+.btn-panda {
+  background-image: linear-gradient(to right, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  padding: 9px 25px;
+  transition: all 1s;
+}
+.btn-panda:hover {
+  background-image: linear-gradient(
+    to right,
+    #ff136f 0%,
+    #ff589b 100%
+  ) !important;
+  color: #000 !important;
+}
+.catagoris-panda {
+  height: 130px;
+}
+.catagoris-panda img {
+  width: 100px;
+}
